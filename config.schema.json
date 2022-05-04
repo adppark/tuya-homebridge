@@ -1,8 +1,8 @@
 {
-	"pluginAlias": "TuyaPlatform",
+	"pluginAlias": "TuyaPlatform-MC",
 	"pluginType": "platform",
 	"singular": true,
-	"headerDisplay": "Official Tuya Homebridge plugin, supported by Tuya Developers.",
+	"headerDisplay": "Tuya Homebridge plugin fork for mc category",
 	"footerDisplay": "",
 	"schema": {
 		"type": "object",
